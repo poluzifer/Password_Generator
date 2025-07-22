@@ -8,9 +8,13 @@
 # Options
 
   '--len <num>' - length of password
+  
   '--digits' - add numbers
+  
   '--upper' - add uppercase letters
+  
   '--SpecSymbols' - add special symbols (!@#$%^&*()-_=+[]{};:,.<>?/)
+  
   '--count <num>' - how many passwords to generate
 
 # Example of output
