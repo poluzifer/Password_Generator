@@ -15,6 +15,6 @@
 
 # Example of output
 
-  2eE39L1Oc
-  pAc9ipekz
-  0qM1NXgV9
+2eE39L1Oc
+pAc9ipekz
+0qM1NXgV9
